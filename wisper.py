@@ -4,4 +4,5 @@ def wisper(speak):
             break
         else:
             print(speak)
+            print('바꾸어보자')
 
