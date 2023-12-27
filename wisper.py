@@ -1,6 +1,6 @@
 def wisper(speak):
     while True:
-        if speak == '그만':
+        if speak == '그만하자':
             break
         else:
             print(speak)
